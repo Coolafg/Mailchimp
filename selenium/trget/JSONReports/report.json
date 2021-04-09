@@ -1,0 +1,389 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-09T09:56:23.153Z",
+        "line": 14,
+        "name": "",
+        "description": "",
+        "id": "registration;;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 13847902400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "browser is open",
+            "match": {
+              "location": "StepDefinitions.login.browser_is_open()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 240752400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user fills email \"khaled.safi@test.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"khaled.safi@test.com\"",
+                  "offset": 17
+                }
+              ],
+              "location": "StepDefinitions.login.user_fills_email(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 152841500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters username \"user\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"user\"",
+                  "offset": 21
+                }
+              ],
+              "location": "StepDefinitions.login.user_enters_username(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 174819900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enters password \"Admin_b123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Admin_b123\"",
+                  "offset": 21
+                }
+              ],
+              "location": "StepDefinitions.login.user_enters_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8185557600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks sign up button",
+            "match": {
+              "location": "StepDefinitions.login.user_clicks_sign_up_button()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@creatnewuser"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-04-09T09:56:45.974Z",
+        "line": 15,
+        "name": "",
+        "description": "",
+        "id": "registration;;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 12831140300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "browser is open",
+            "match": {
+              "location": "StepDefinitions.login.browser_is_open()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 216775400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user fills email \"khaled.safi@test.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"khaled.safi@test.com\"",
+                  "offset": 17
+                }
+              ],
+              "location": "StepDefinitions.login.user_fills_email(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 380607800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters username \"longUserNamelongUserNamelongUserNamelongUserNamelongUserNamelongUserNamelongUserNamelongUserNamelongUserNamelongUserName\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"longUserNamelongUserNamelongUserNamelongUserNamelongUserNamelongUserNamelongUserNamelongUserNamelongUserNamelongUserName\"",
+                  "offset": 21
+                }
+              ],
+              "location": "StepDefinitions.login.user_enters_username(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 131864200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enters password \"Admin_b123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Admin_b123\"",
+                  "offset": 21
+                }
+              ],
+              "location": "StepDefinitions.login.user_enters_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4215751700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks sign up button",
+            "match": {
+              "location": "StepDefinitions.login.user_clicks_sign_up_button()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@creatnewuser"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-04-09T09:57:03.758Z",
+        "line": 16,
+        "name": "",
+        "description": "",
+        "id": "registration;;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10872949400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "browser is open",
+            "match": {
+              "location": "StepDefinitions.login.browser_is_open()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 213355500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user fills email \"khaled.safi1@test.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"khaled.safi1@test.com\"",
+                  "offset": 17
+                }
+              ],
+              "location": "StepDefinitions.login.user_fills_email(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 128290000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters username \"mark\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"mark\"",
+                  "offset": 21
+                }
+              ],
+              "location": "StepDefinitions.login.user_enters_username(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 154564700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enters password \"Admin_b123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Admin_b123\"",
+                  "offset": 21
+                }
+              ],
+              "location": "StepDefinitions.login.user_enters_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12425892000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks sign up button",
+            "match": {
+              "location": "StepDefinitions.login.user_clicks_sign_up_button()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@creatnewuser"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-04-09T09:57:27.564Z",
+        "line": 17,
+        "name": "",
+        "description": "",
+        "id": "registration;;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 11725321000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "browser is open",
+            "match": {
+              "location": "StepDefinitions.login.browser_is_open()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 103891300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user fills email \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 17
+                }
+              ],
+              "location": "StepDefinitions.login.user_fills_email(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 188804700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters username \"afgbacha18\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"afgbacha18\"",
+                  "offset": 21
+                }
+              ],
+              "location": "StepDefinitions.login.user_enters_username(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 143853200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enters password \"Admin_b123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Admin_b123\"",
+                  "offset": 21
+                }
+              ],
+              "location": "StepDefinitions.login.user_enters_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4231337300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks sign up button",
+            "match": {
+              "location": "StepDefinitions.login.user_clicks_sign_up_button()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@creatnewuser"
+          }
+        ]
+      }
+    ],
+    "name": "registration",
+    "description": "",
+    "id": "registration",
+    "keyword": "Feature",
+    "uri": "file:///C:/Users/afgba/eclipse-workspace/selenium/src/test/resources/Features/login.feature",
+    "tags": []
+  }
+]
